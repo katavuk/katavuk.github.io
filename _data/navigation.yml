@@ -3,16 +3,16 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "MADR Mosaics"
+  - title: "MADR"
     url: /talks/    
 
   - title: "Research"
     url: /portfolio/
           
-  - title: "CSMC Website"
+  - title: "CSMC Site"
     url: https://www.cedars-sinai.org/research/labs/breunig.html
   
-  - title: "UCLA Website"
+  - title: "UCLA Site"
     url: https://people.healthsciences.ucla.edu/institution/personnel?personnel_id=4891243
     
   - title: #"Blog Posts"
