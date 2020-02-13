@@ -7,8 +7,8 @@ main:
     url: /talks/    
 
   - title: "Research"
-    url: /portfolio/
-          
+    url: /portfolio
+    
   - title: "CSMC Site"
     url: https://www.cedars-sinai.org/research/labs/breunig.html
   
