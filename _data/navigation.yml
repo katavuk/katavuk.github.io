@@ -6,12 +6,15 @@ main:
   - title: "MADR Mosaics"
     url: /talks/    
 
-  - title: #"Teaching"
-    url: /teaching/    
-    
   - title: "Research"
     url: /portfolio/
-        
+          
+  - title: "CSMC Website"
+    url: https://www.cedars-sinai.org/research/labs/breunig.html
+  
+  - title: "UCLA Website"
+    url: https://people.healthsciences.ucla.edu/institution/personnel?personnel_id=4891243
+    
   - title: #"Blog Posts"
     url: /year-archive/
     
@@ -20,10 +23,7 @@ main:
     
   - title: #"Guide"
     url: /markdown/
-       
-  - title: "CSMC Website"
-    url: https://www.cedars-sinai.org/research/labs/breunig.html
-  
-  - title: "UCLA Website"
-    url: https://people.healthsciences.ucla.edu/institution/personnel?personnel_id=4891243
+    
+ - title: #"Teaching"
+    url: /teaching/    
     
