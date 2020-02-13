@@ -11,9 +11,9 @@ title                    : "Joshua Breunig Ph.D. / thebreuniglab.com"
 title_separator          : "-"
 name                     : &name "Joshua Breunig Ph.D."
 description              : &description "personal description"
-url                      : https://JBreunig.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jbreunig.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JBreunig/JBreunig.github.io"
+repository               : "jbreunig/jbreunig.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
