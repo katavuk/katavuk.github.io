@@ -7,7 +7,10 @@ main:
     url: /talks/    
 
   - title: "Research"
-    url: /portfolio
+    url: /portfolio/
+    
+  - title: "People"
+    url: /teaching/
     
   - title: "CSMC Site"
     url: https://www.cedars-sinai.org/research/labs/breunig.html
@@ -15,7 +18,7 @@ main:
   - title: "UCLA Site"
     url: https://people.healthsciences.ucla.edu/institution/personnel?personnel_id=4891243
     
-  - title: #"Blog Posts"
+  - title: #"Lab Pics"
     url: /year-archive/
     
   - title: #"CV"
@@ -24,6 +27,5 @@ main:
   - title: #"Guide"
     url: /markdown/
     
-  - title: #"Teaching"
-    url: /teaching/    
+     
     
