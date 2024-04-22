@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 
 * Ph.D. in Mathematics, Ruhr University Bochum, 2023
 * M.S. in Mathematics, Ruhr University Bochum, 2017
