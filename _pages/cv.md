@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D. in Mathematics, Ruhr University Bochum, 2023
+* M.S. in Mathematics, Ruhr University Bochum, 2017
+* Erasmus Studies Abroad, Department of Mathematical Science, Durham University, 2014-2015
+* B.S. in Mathematics, Ruhr-University Bochum, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since June 2023: Postdoc/ Research Assistant
+  * Chair of Mchine Learning, Faculty for Informatics and Data Science, University of Regensburg
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2017-2023: Research Assistant
+  * Chair of Probability Theory, Ruhr University Bochum
+  * Supervisor: Professor Herold Dehling
 
 Publications
 ======
