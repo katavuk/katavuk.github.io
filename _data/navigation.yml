@@ -3,29 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "MADR"
+  - title: "Talks"
     url: /talks/    
 
-  - title: "Research"
-    url: /portfolio/
+  - title: "Research Interests"
+    url: /research/
     
-  - title: "People"
-    url: /teaching/
-    
-  - title: "CSMC Site"
-    url: https://www.cedars-sinai.org/research/labs/breunig.html
-  
-  - title: "UCLA Site"
-    url: https://people.healthsciences.ucla.edu/institution/personnel?personnel_id=4891243
-    
-  - title: #"Lab Pics"
-    url: /year-archive/
-    
-  - title: #"CV"
+  - title: "CV"
     url: /cv/
     
-  - title: #"Guide"
-    url: /markdown/
+  - title: "Contact"
+    url: /contact/
     
      
     
