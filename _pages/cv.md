@@ -18,7 +18,7 @@ Education
 * B.S. in Mathematics, Ruhr-University Bochum, 2014
 
 Work experience
-======
+------
 * Since June 2023: Postdoc/ Research Assistant
   * Chair of Machine Learning, Faculty for Informatics and Data Science, University of Regensburg
 
@@ -27,7 +27,7 @@ Work experience
   * Supervisor: Professor Herold Dehling
 
 Publications
-======
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -44,6 +44,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
