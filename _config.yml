@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joshua Breunig Ph.D. / thebreuniglab.com"
+title                    : "Kata Vuk"
 title_separator          : "-"
-name                     : &name "Joshua Breunig Ph.D."
-description              : &description "personal description"
-url                      : https://jbreunig.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kata Vuk"
+description              : &description "Postdoc at the University of Regensburg"
+url                      : https://katavuk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jbreunig/jbreunig.github.io"
+repository               : "katavuk/katavuk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Joshua Breunig Ph.D."
+  name             : "Kata Vuk"
   avatar           : "profile.png"
-  bio              : "Associate Professor, Cedars-Sinai Medical Center & David Geffen School of Medicine, UCLA(adj)"
-  location         : "Beverly Hills"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=breunig+jj"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=jrZqxRAAAAAJ"
-  email            :
+  bio              : "Postdoc, Chair of Machine Learning, Faculty for Informatics and Data Science"
+  location         : "Regensburg, Germany"
+  employer         : "University of Regensburg"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=breunig+jj"
+  googlescholar    : # "https://scholar.google.com/citations?hl=en&user=jrZqxRAAAAAJ"
+  email            : kata.vuk@ur.de
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JBreunig"
+  github           : # "katavuk"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@breuniglab"
+  twitter          : # "@breuniglab"
   vine             :
   weibo            :
   xing             :
