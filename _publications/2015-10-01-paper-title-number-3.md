@@ -1,15 +1,26 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+layout: archive
+title: "Publications"
+permalink: /publication/
+author_profile: true
+redirect_from:
+  - /resume
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+{% include base_path %}
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Change-point detection based on weighted two-sample U-statistics
+------
+Published in *Electronic Journal of Statistics*, 2022
+
+We investigate the large-sample behavior of change-point tests based on weighted two-sample U-statistics, in the case of short-range dependent data. Under some mild mixing conditions, we establish convergence of the test statistic to an extreme value distribution. A simulation study shows that the weighted tests are superior to the non-weighted versions when the change-point occurs near the boundary of the time interval, while they loose power in the center.
+
+Download [here](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-16/issue-1)
+
+Power of weighted test statistics for structural change in time series
+------
+To be published in *Electronic Journal of Statistics*, 2024
+
+**Abstract:** We investigate the power of some common change-point tests as a function of the location of the change-point. The test statistics are maxima of weighted U-statistics, with the CUSUM test and the Wilcoxon change-point test as special examples. We study the power under local alternatives, where we vary both the change-point’s location and the magnitude of the change. We quantify in which way weighted versions of the tests exhibit greater power when the change occurs near the beginning or the end of the time interval, while losing power against changes located in the center.
+
+Download [here](https://arxiv.org/abs/2302.08795)
