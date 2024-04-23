@@ -2,7 +2,6 @@
 title: "Change-point detection based on weighted two-sample U-statistics"
 collection: publications
 permalink: /publication/
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-02-01
 venue: 'Electronic Journal of Statistics'
 paperurl: 'https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-16/issue-1/Change-point-detection-based-on-weighted-two-sample-U-statistics/10.1214/21-EJS1964.full'
