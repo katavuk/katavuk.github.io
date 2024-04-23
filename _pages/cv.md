@@ -19,7 +19,7 @@ Education
 
 Work experience
 ------
-* Since June 2023: Postdoc
+* Since June 2023: Postdoctoral Research Assistant
   * Chair of Machine Learning, Faculty for Informatics and Data Science, University of Regensburg
 
 * 2017-2023: Research Assistant
