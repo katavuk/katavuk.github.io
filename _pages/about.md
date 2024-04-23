@@ -13,7 +13,3 @@ Hi! I'm Kata, a postdoc at the [Faculty for Informatics and Data Science](https:
 My work and research
 ======
 ... 
-
-For more info
-------
-... 
