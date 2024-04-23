@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Short CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -26,7 +26,7 @@ Work experience
   * Chair of Probability Theory, Ruhr University Bochum
   * Supervisor: Professor Herold Dehling
 
-Publications
+<!--Publications
 ------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -43,5 +43,5 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+  -->
 
