@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Kata Vuk"
   avatar           : "profile.png"
-  bio              : "Postdoc, Chair of Machine Learning, Faculty for Informatics and Data Science"
+  bio              : "Postdoc in Machine Learning"
   location         : "Regensburg, Germany"
-  employer         : "University of Regensburg"
+  employer         : # "University of Regensburg"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=breunig+jj"
   googlescholar    : # "https://scholar.google.com/citations?hl=en&user=jrZqxRAAAAAJ"
   email            : kata.vuk@ur.de
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-3735-3390"
+  orcid            : #"https://orcid.org/0000-0002-3735-3390"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
