@@ -22,7 +22,7 @@ Work experience
   * Chair of Machine Learning, Faculty for Informatics and Data Science, University of Regensburg
 
 * 2017-2023: Research Assistant
-  * Chair of Probability Theory, Ruhr University Bochum
+  * Chair of Probability Theory and its Applications, Faculty of Mathematics, Ruhr University Bochum
   * Supervisor: Professor Herold Dehling
 
 <!--Publications
