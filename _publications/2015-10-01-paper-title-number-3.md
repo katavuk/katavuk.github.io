@@ -11,11 +11,11 @@ redirect_from:
 
 Power of weighted test statistics for structural change in time series
 ------
-To be published in *Electronic Journal of Statistics*, 2024
+Published in *Electronic Journal of Statistics*, 2024
 
 **Abstract:** We investigate the power of some common change-point tests as a function of the location of the change-point. The test statistics are maxima of weighted U-statistics, with the CUSUM test and the Wilcoxon change-point test as special examples. We study the power under local alternatives, where we vary both the change-point’s location and the magnitude of the change. We quantify in which way weighted versions of the tests exhibit greater power when the change occurs near the beginning or the end of the time interval, while losing power against changes located in the center.
 
-Download paper [here](https://arxiv.org/abs/2302.08795)
+Download paper [here](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-1/Power-of-weighted-test-statistics-for-structural-change-in-time/10.1214/24-EJS2248.full)
 
 
 Change-point detection based on weighted two-sample U-statistics
