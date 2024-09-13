@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "News"
-    url: /posts/
+    url: /year-archive/
     
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
-    url: /year-archive/    
+    url: /talks/    
     
   - title: "Education"
     url: /cv/
