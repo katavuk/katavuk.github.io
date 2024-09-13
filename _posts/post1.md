@@ -1,7 +1,9 @@
 ---
 title: 'Starting My Postdoctoral Journey at the University of Regensburg'
+collection: news
+type: "News"
 date: 2023-06-01
-permalink: /news/1/
+permalink: /news/post1/
 
 ---
 
