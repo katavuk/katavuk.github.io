@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "News"
-    url: /year-archive/
+    url: /news/
     
   - title: "Publications"
     url: /publications/
@@ -17,6 +17,8 @@ main:
 
  #- title: "Research Interests"
   # url: /research/
-    
+
+ #- title: "News"
+ #   url: /year-archive/
      
     
