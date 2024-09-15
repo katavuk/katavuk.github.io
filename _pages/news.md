@@ -23,7 +23,7 @@ In the course **Fundamentals of Bioinformatics Analysis of RNA-seq and ATAC-seq 
 
 12/2023
 -
-I gave a **talk** in the session Time Series: Detecting Change-Points and Dependence at the [CMStatistics](https://www.cmstatistics.org/CMStatistics2023/programme.php) Conference held at HTW Berlin. It was great to reconnect with former colleagues from Ruhr University Bochum! 
+I gave a **talk** in the session "Time Series: Detecting Change-Points and Dependence" at the [CMStatistics](https://www.cmstatistics.org/CMStatistics2023/programme.php) Conference held at HTW Berlin. It was great to reconnect with former colleagues from Ruhr University Bochum! 
 
 10/2023
 -
