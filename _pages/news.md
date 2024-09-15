@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+08/2024
+-
+It was wonderful to return to my home university for the [IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org). I had the privilege of **presenting** in the "New Directions in Change-Point Analysis" session alongside esteemed colleagues Marie Huskova, Rebecca Killick, and Robert Lund. It was great to connect with attendees from around the globe and engage in a variety of fascinating talks and plenary sessions. The pre-meeting for young researchers was particularly enriching, with Remco van der Hofstad, Emmanuel Candes, and Susan Murphy sharing their insights on network science, AI, and digital health. 🌍
+
 07/2024
 -
 Attending the **12th Grainau Workshop on Genetic Epidemiology** was a refreshing change from my usual conferences, where the focus is typically more technical. It was fascinating to engage with experts from the fields of medicine and epidemiology and to discuss how machine learning can be applied to genetic data analysis. 🧬 
