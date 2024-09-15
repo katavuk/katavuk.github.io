@@ -15,7 +15,7 @@ Attending the **12th Grainau Workshop on Genetic Epidemiology** was a refreshing
 
 06/2024
 -
-In the **course** "Fundamentals of Bioinformatics Analysis of RNA-seq and ATAC-seq Data" at FAU, offered by the TRR 374, I had the opportunity to delve into the sequencing analysis techniques. 📈 
+In the course **Fundamentals of Bioinformatics Analysis of RNA-seq and ATAC-seq Data** at FAU, offered by the TRR 374, I had the opportunity to delve into the sequencing analysis techniques. 📈 
 
 12/2023
 -
