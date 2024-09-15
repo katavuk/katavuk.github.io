@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+07/2024
+-
+Attending the **12th Grainau Workshop on Genetic Epidemiology** was a refreshing change from my usual conferences, where the focus is typically more technical. It was fascinating to engage with experts from the fields of medicine and epidemiology and to discuss how machine learning can be applied to genetic data analysis. 🧬 
+
 12/2023
 -
 I gave a **talk** in the session Time Series: Detecting Change-Points and Dependence at the [CMStatistics](https://www.cmstatistics.org/CMStatistics2023/programme.php) Conference held at HTW Berlin. It was great to reconnect with former colleagues from Ruhr University Bochum! 
