@@ -11,7 +11,7 @@ redirect_from:
 
 10/2023
 -
-It was a great pleasure for me to speak at the R,KOM lecture series on the topic ["Knocked Out by AI? Is Artificial Intelligence Taking Over in Business and Society?"](https://www.r-kom.de/w/-digit-r_13). Addressing such a wide and engaged audience was a refreshing experience for me. The panel discussion that followed was particularly insightful, offering a rich exchange of diverse perspectives on the potential and challenges AI presents in business and society. A brief newspaper article about the event is available here: [link](https://www.mittelbayerische.de/nachrichten/wirtschaft/ki-kommt-einer-industriellen-revolution-gleich-14596125).
+It was a great pleasure for me to speak at the [R,KOM lecture series](https://www.r-kom.de/digit-r) on the topic ["Knocked Out by AI? Is Artificial Intelligence Taking Over in Business and Society?"](https://www.r-kom.de/w/-digit-r_13). Addressing such a wide and engaged audience was a refreshing experience for me. The panel discussion that followed was particularly insightful, offering a rich exchange of diverse perspectives on the potential and challenges AI presents in business and society. A brief newspaper article about the event is available here: [link](https://www.mittelbayerische.de/nachrichten/wirtschaft/ki-kommt-einer-industriellen-revolution-gleich-14596125).
 
 09/2023
 -
