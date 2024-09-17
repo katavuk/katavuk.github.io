@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+09/2024
+-
+I am thrilled to share that I have been awarded **funding** through the **Graduate Center at the Bavarian Research Institute for Digital Transformation** ([bidt](https://www.bidt.digital)), an institute of the Bavarian Academy of Sciences and Humanities. This funding will support my work in advancing research on *From Data to Discovery in the Healthcare Information Age: Interpretable Machine Learning with Piecewise Constant Models*. A summary of my project can be found [here](https://www.bidt.digital/person/kata-vuk/).🌟 
+[Press release from the Bavarian State Ministry for Science and the Arts.](https://www.stmwk.bayern.de/pressemitteilung/12824/nr-73-vom-17-09-2024.html)
+[Press release from the University of Regensburg.](https://www.uni-regensburg.de/newsroom/presse/mitteilungen/index.html?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BhideDate%5D=0&tx_news_pi1%5Bnews%5D=22553&tx_news_pi1%5BsimpleList%5D=1&cHash=852d48e57323d65d064cec04fcc8c0ba)
+
 08/2024
 -
 It was wonderful to return to my home university for the [IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org). I had the privilege of **presenting** in the "New Directions in Change-Point Analysis" session alongside esteemed colleagues Marie Huskova, Rebecca Killick, and Robert Lund. It was great to connect with attendees from around the globe and engage in a variety of fascinating talks and plenary sessions. The pre-meeting for young researchers was particularly enriching, with Remco van der Hofstad, Emmanuel Candes, and Susan Murphy sharing their insights on network science, AI, and digital health. 🌍
