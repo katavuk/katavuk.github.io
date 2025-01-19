@@ -19,7 +19,7 @@ Education
 Work experience
 ------
 * Since June 2023: Postdoctoral Research Assistant
-  * Chair of Machine Learning, Faculty for Informatics and Data Science, University of Regensburg
+  * Chair of Machine Learning, Faculty of Informatics and Data Science, University of Regensburg
 
 * 2017-2023: Research Assistant
   * Chair of Probability Theory and its Applications, Faculty of Mathematics, Ruhr University Bochum
