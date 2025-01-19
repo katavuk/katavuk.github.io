@@ -11,7 +11,7 @@ redirect_from:
 
 12/2024
 -
-Thrilled to announce that I have been accepted into the program [https://www.uni-regensburg.de/chancengleichheit/mentoring/staffel-2024/index.html](Mentoring.UR)! I am eager to connect with my mentor and grow both personally and professionally through this experience. ✨
+Thrilled to announce that I have been accepted into the program [Mentoring.UR](https://www.uni-regensburg.de/chancengleichheit/mentoring/staffel-2024/index.html)! I am eager to connect with my mentor and grow both personally and professionally through this experience. ✨
 
 10/2024
 -
