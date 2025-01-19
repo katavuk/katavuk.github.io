@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+10/2024
+-
+Just wrapped up an inspiring three weeks at UC Berkeley, where I had the privilege of visiting [Bin Yu](https://binyu.stat.berkeley.edu) and her team 🌟. My time there was filled with engaging talks, meaningful conversations, and the opportunity to connect with inspiring researchers. During my trip, I also had the pleasure of giving a talk at UC Santa Cruz, where I exchanged ideas and learned about the exciting work happening there. 🌍
+
 09/2024
 -
 I am thrilled to share that I have been awarded **funding** through the **Graduate Center at the Bavarian Research Institute for Digital Transformation** ([bidt](https://www.bidt.digital)), an institute of the Bavarian Academy of Sciences and Humanities. This funding will support my work in advancing research on *From Data to Discovery in the Healthcare Information Age: Interpretable Machine Learning with Piecewise Constant Models*. A summary of my project can be found [here](https://www.bidt.digital/person/kata-vuk/).🌟  
