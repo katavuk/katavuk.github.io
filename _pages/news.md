@@ -11,7 +11,7 @@ redirect_from:
 
 10/2024
 -
-Just wrapped up an inspiring three weeks at UC Berkeley, where I had the privilege of visiting [Bin Yu](https://binyu.stat.berkeley.edu) and her team 🌟. My time there was filled with engaging talks, meaningful conversations, and the opportunity to connect with inspiring researchers. During my trip, I also had the pleasure of giving a talk at UC Santa Cruz, where I exchanged ideas and learned about the exciting work happening there. 🌍
+Just wrapped up an inspiring three weeks at **UC Berkeley**, where I had the privilege of visiting [Bin Yu](https://binyu.stat.berkeley.edu) and her team. My time there was filled with engaging talks, meaningful conversations, and the opportunity to connect with inspiring researchers. During my trip, I also had the pleasure of giving a talk at **UC Santa Cruz**, where I exchanged ideas and learned about the exciting work happening there. 🌍
 
 09/2024
 -
