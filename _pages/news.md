@@ -11,9 +11,9 @@ redirect_from:
 
 2025
 -
-**09/2025 Visiting Scholar Funding:** I’m very happy to share that my application was successful and I received a stipend for the [IVADO](https://ivado.ca/en/) Visiting Scholar Program. I will join IVADO in Montréal as a Visiting Scholar for four months, from January to April 2026. I’m really looking forward to this stay.
+**09/2025 Visiting Scholar Funding:** I’m very happy to share that my application was successful and I received a stipend for the [IVADO](https://ivado.ca/en/) Visiting Scholar Program. I will join IVADO in Montréal as a Visiting Scholar for four months, from January to April 2026. I’m really looking forward to this stay. 🇨🇦
 
-**05/2025 Ivited Talk and Keynote:** I'm looking forward to giving two invited talks next month - one at the workshop [Statistical Theory of Neural Networks](https://sites.google.com/view/stnnworkshop/home) and a keynote at the conference [Women In Data Science](https://www.wids-regensburg.de/speakers-2025/). 
+**05/2025 Ivited Talk and Keynote:** I'm looking forward to giving two invited talks next month - one at the workshop [Statistical Theory of Neural Networks](https://sites.google.com/view/stnnworkshop/home) and a keynote at the conference [Women In Data Science](https://www.wids-regensburg.de/speakers-2025/). 🎙️
 
 **03/2025 Workshop Announcement:** Excited to announce the upcoming workshop [Probability Theory and its Applications](https://sites.google.com/view/workshop-prob-and-apps-2025), which will take place on July 3–5, 2025, at Ruhr University Bochum. Together with my colleagues [Annika Betken](https://annikabetken.github.io) and [Marie-Christine Düker](https://mariedueker.github.io), I am organizing this event in honor of our PhD supervisor [Herold Dehling’s](https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Lehrstuhl-XII/dehling.html) 70th birthday.
 
