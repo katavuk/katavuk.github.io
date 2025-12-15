@@ -9,6 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+Provable Recovery of Locally Important Signed Features and Interactions from Random Forest
+------
+(2025+)
+
+**Abstract:** Feature and Interaction Importance (FII) methods are essential in supervised
+learning for assessing the relevance of input variables and their interactions
+in complex prediction models. In many domains, such as personalized medicine,
+local interpretations for individual predictions are often required, rather
+than global scores summarizing overall feature importance. Random Forests (RFs)
+are widely used in these settings, and existing interpretability methods
+typically exploit tree structures and split statistics to provide
+model-specific insights. However, theoretical understanding of local FII
+methods for RF remains limited, making it unclear how to interpret high
+importance scores for individual predictions. We propose a novel, local,
+model-specific FII method that identifies frequent co-occurrences of features
+along decision paths, combining global patterns with those observed on paths
+specific to a given test point. We prove that our method consistently recovers
+the true local signal features and their interactions under a Locally Spike
+Sparse (LSS) model and also identifies whether large or small feature values
+drive a prediction. We illustrate the usefulness of our method and theoretical
+results through simulation studies and a real-world data example.
+
+Download paper [here](https://arxiv.org/abs/2512.11081)
+
+
 Power of weighted test statistics for structural change in time series
 ------
 Published in *Electronic Journal of Statistics*, 2024
