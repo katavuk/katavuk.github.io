@@ -11,7 +11,7 @@ redirect_from:
 
 2025
 -
-**09/2025 Visiting Scholar Funding:** I’m very happy to share that my application was successful and I received a stipend for the [IVADO](https://ivado.ca/en/) Visiting Scholar Program. I will join IVADO in Montréal as a Visiting Scholar for four months, from January to April 2026. I’m really looking forward to this stay. 🇨🇦
+**09/2025 Visiting Scholar Funding:** I’m very happy to share that my I received a stipend for the [IVADO](https://ivado.ca/en/) Visiting Scholar Program. I will join IVADO and McGill University in Montréal as a Visiting Scholar for four months, from January to April 2026. I’m really looking forward to this stay. 🇨🇦
 
 **05/2025 Ivited Talk and Keynote:** I'm looking forward to giving two invited talks next month - one at the workshop [Statistical Theory of Neural Networks](https://sites.google.com/view/stnnworkshop/home) and a keynote at the conference [Women In Data Science](https://www.wids-regensburg.de/speakers-2025/). 🎙️
 
