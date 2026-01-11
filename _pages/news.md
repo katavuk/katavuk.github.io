@@ -11,7 +11,7 @@ redirect_from:
 
 2026
 -
-**01/2026** 🇨🇦 I’m excited to kick off the year in Montreal, Canada, with a research stay at McGill University.
+**01/2026** 🇨🇦 I’m excited to kick off the year in Montreal with a research stay at McGill University as an IVADO Visiting Scholar.
 
 2025
 -
